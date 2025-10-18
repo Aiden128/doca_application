@@ -1,0 +1,18 @@
+# Internal documentation and notes
+DOCUMENTATION_REQUIREMENTS.md
+PUSH_INSTRUCTIONS.md
+
+# Backup files
+*_backup/
+*.bak
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
